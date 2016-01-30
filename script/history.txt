@@ -1,0 +1,5 @@
+%hist
+%history
+%history?
+%history?
+%history -f history.txt
